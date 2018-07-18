@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <license>
+    	<crossRefs>
+        	<crossRef>https://spdx.org/</crossRef>
+        </crossRefs>
+        <text>
+        	<p>Sample Text</p>
+        </text>
+    </license>
+</SPDXLicenseCollection>
